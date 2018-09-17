@@ -16,6 +16,6 @@
     return "I LOVE YOU TOO PUMPKIN!" 
   elsif phrase == "WHAT?".upcase || phrase == "WHAT DID YOU EAT TODAY?".upcase
   return "NO, NOT SINCE 1938!"
-else return "HUH?! SPEAK UP, SONNY"
+elsif return "HUH?! SPEAK UP, SONNY"
 end
 end
